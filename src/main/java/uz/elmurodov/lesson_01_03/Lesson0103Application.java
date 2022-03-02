@@ -1,4 +1,4 @@
-package uz.elmurodov;
+package uz.elmurodov.lesson_01_03;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

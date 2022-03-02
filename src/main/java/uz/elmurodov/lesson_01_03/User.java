@@ -1,4 +1,4 @@
-package lesson_01_03;
+package uz.elmurodov.lesson_01_03;
 
 import io.swagger.annotations.ApiModelProperty;
 
