@@ -5,4 +5,10 @@ package uz.elmurodov.models;
  */
 public class Student {
 
+    private String id;
+
+    private String name;
+
+    private Long groupId;
+
 }
