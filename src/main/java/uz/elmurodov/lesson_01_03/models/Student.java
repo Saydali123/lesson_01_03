@@ -1,4 +1,4 @@
-package uz.elmurodov.models;
+package uz.elmurodov.lesson_01_03.models;
 
 /**
  * @author Saydali Murodullayev, Wed 12:42 PM. 3/2/2022

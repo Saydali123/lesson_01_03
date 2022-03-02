@@ -1,4 +1,4 @@
-package uz.elmurodov.lesson_01_03;
+package aa;
 
 
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package uz.elmurodov.models;
+package uz.elmurodov.lesson_01_03.models;
 
 import java.util.List;
 
